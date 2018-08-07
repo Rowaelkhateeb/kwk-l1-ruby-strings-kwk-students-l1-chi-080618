@@ -23,4 +23,7 @@ Harry Potter"
 
 
 
-# Try starting out with puts'ing a string.
+
+puts "Dear #{name},"
+
+puts "you are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than October 30. 
