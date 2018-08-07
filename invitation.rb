@@ -8,10 +8,10 @@
 # date = gets.chomp
 
 # puts "what is the time"
-# time = gets.chomp
+#time = gets.chomp
 
 # puts "what is host name"
-# host_name = gets.chomp
+#host_name = gets.chomp
 
 # puts "Dear #{guest_name},
  
