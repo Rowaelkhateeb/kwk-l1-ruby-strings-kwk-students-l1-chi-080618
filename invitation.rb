@@ -24,7 +24,7 @@
 
 
 
-puts "Dear #{name},"
+puts "Dear #{guest_name},"
 
 puts "you are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP no later than October 30. 
 sincerly,
